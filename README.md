@@ -59,3 +59,5 @@ This app lets users write a prompt in their dashboard, generates a blog article 
 
 ## License
 MIT 
+
+![Image](https://github.com/user-attachments/assets/dd7a0c0d-adaa-4bad-8eb1-a83b6a39e040)
